@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.upiiz.suppliers.SupplierApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.258 s -- in com.upiiz.suppliers.SupplierApplicationTests

@@ -1,0 +1,6 @@
+com\upiiz\suppliers\respositories\SupplierRepository.class
+com\upiiz\suppliers\SuppliersApplication.class
+com\upiiz\suppliers\controllers\SupplierController.class
+com\upiiz\suppliers\services\SupplierService.class
+com\upiiz\suppliers\config\SecurityConfig.class
+com\upiiz\suppliers\entities\Supplier.class
